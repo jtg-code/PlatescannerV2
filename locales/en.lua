@@ -1,0 +1,15 @@
+Locales['en'] = {
+    ['unknown'] = 'Unknown',
+    ['no_perms'] = 'You are ~r~not ~w~entitled~ to do that',
+    ['notify'] = 'The vehicle~y~ %s ~w~was ~w~too fast',
+    ['speed_camera'] = 'Speed camera',
+    ['delete_log'] = 'You have deleted the log',
+    ['speed_camera_on'] = 'You have ~g~activated ~w~the radar trap',
+    ['speed_camera_off'] = 'You have ~r~deactivated ~w~the radar trap',
+    ['not_car'] = 'You must be in a vehicle',
+    ['owend_by'] = 'This vehicle belongs~y~ %s',
+    ['owned_by_nobody'] = 'This vehicle belongs to no one',
+    ['vehicles'] = 'Vehicles',
+    ['revoke'] = 'Revoke',
+    ['no_log'] = 'No log existend',
+}

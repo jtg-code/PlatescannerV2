@@ -2,7 +2,7 @@ fx_version 'bodacious'
 game 'gta5'
 
 author 'Fly'
-description 'Speedcamera Script'
+description 'Speedcamera Script V2'
 version '2.3'
 
 lua54 'on'
